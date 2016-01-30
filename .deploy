@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: git@162.243.129.92:hcw/blog.git,master
+
